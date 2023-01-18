@@ -36,7 +36,7 @@ def gcd():
 ```        
 
 ## Output:
-![gcd of two number](gcd.png)
+
 ![gcd](/Screenshot%202023-01-18%20082147.jpg)
 
 
